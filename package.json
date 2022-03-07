@@ -1,0 +1,25 @@
+{
+  "name": "mod-mail-system",
+  "version": "1.0.0",
+  "description": "Mod-mail system multiguilds!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XOUT1/Mod-Mail-System.git"
+  },
+  "keywords": [
+    "Mod-mail",
+    "dm",
+    "repl.it",
+    "moderation"
+  ],
+  "author": "XOUT#0509",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XOUT1/Mod-Mail-System/issues"
+  },
+  "homepage": "https://github.com/XOUT1/Mod-Mail-System#readme"
+}
